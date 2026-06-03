@@ -1,0 +1,8 @@
+{
+  "name": "Remix: PhotoGen India",
+  "description": "A modern, production-ready Indian Passport and Visa Size Photo Maker application with standard 4x6 print sheets, customizable borders, background editing, smart guides, quality checks, and local exports.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
